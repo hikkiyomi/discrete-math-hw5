@@ -1,1 +1,1 @@
-# discrete_math_hw5
+# Discrete Math HW5
