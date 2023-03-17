@@ -520,8 +520,7 @@ const int kTaskGLimit = 100000000;
 vector<pair<int, int>> task_g_ans;
 
 /**
- * @brief 
- * Sizes of matching depending of the value of kTaskGLimit
+ * Sizes of matching depending f the value of kTaskGLimit
  * 
  * 1 - 19
  * 10 - 19
@@ -1200,10 +1199,6 @@ void TaskO_weighted() {
 
 signed main() {
     fastio;
-#ifdef hikki
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
-#endif
 
     // ! ---------------------------------
     // ! DO NOT TOUCH
